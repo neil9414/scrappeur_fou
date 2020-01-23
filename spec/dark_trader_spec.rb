@@ -1,4 +1,4 @@
-require '../lib/dark_trader'
+require_relative '../lib/dark_trader'
 
 describe coinmarket do 
   it "should be equal to 200" do
